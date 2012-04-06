@@ -23,6 +23,7 @@ def main
       #Grit.debug = true
     
       #pp Grit::GitRuby.cache_client.stats 
+      #Here just for modified status test of GIT for the third time
     
       commit1 = '5e3ee1198672257164ce3fe31dea3e40848e68d5'
       commit2 = 'ca8a30f5a7f0f163bbe3b6f0abf18a6c83b0687a'
